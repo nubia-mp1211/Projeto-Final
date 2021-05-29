@@ -12,5 +12,5 @@ A sequencia de execução dos programas:
 4) Alguns programas que contém informações que foram trabalhadas para obter os gráficos:
 5) Grafico-Fabricantes-vacinas = mostra os fabricantes das vacinas disponíveis no Brasil e gráfico acumulado
 6) Primeira-Segunda-Doses = apresenta o total de vacinados no Brasil com a primeira e segunda dose 
-7) Faço uma análise dos brasileiros vacinados no Estado de São Paulo (SP) e nas 5 regiões do Brasil: NORTE, NORDESTE, CENTRO-OESTE, SUDESTE e SUL do Brasil.
+7) Faço uma análise das faixas etárias dos brasileiros vacinados no Estado de São Paulo (SP) e nas 5 regiões do Brasil: NORTE, NORDESTE, CENTRO-OESTE, SUDESTE e SUL do Brasil.
 8) E finalmente, ATUAL-Tratando-Vacinados e Previsoes = este programa faz toda análise e utiliza o Modelo Machine Learning, Prophet para fazer a previsão de quando teremos toda população brasileira vacinada.
