@@ -13,4 +13,4 @@ A sequencia de execução dos programas:
 5) Grafico-Fabricantes-vacinas = mostra os fabricantes das vacinas disponíveis no Brasil e gráfico acumulado
 6) Primeira-Segunda-Doses = apresenta o total de vacinados no Brasil com a primeira e segunda dose 
 7) Faço uma análise das faixas etárias dos brasileiros vacinados no Estado de São Paulo (SP) e nas 5 regiões do Brasil: NORTE, NORDESTE, CENTRO-OESTE, SUDESTE e SUL do Brasil.
-8) E finalmente, ATUAL-Tratando-Vacinados e Previsoes = este programa faz toda análise e utiliza o Modelo Machine Learning, Prophet para fazer a previsão de quando teremos toda população brasileira vacinada.
+8) E finalmente, ATUAL-Tratando-Vacinados e Previsões = este programa faz toda análise e utiliza o Modelo Prophet, para Séries Temporais, de Machine Learning, Prophet para fazer a previsão dos braileiros vacinados contra a Covid-19, com a 1. Dose e 2. Dose. Faço medição usando quatro modelos diferentes do Prophet e ajustando os parâmetros do Prophet para chegar no melhor resultado de previsão, onde faço os plottings e análise de cada modelo.
